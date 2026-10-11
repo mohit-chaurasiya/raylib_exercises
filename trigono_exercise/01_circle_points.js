@@ -51,7 +51,6 @@ function draw(world) {
 
 function loop(world) {
     while (!r.WindowShouldClose()) {
-        update(world);
         draw(world);
     }
 }
