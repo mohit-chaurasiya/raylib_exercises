@@ -5,6 +5,7 @@ function setup() {
     const HEIGHT = 400;
     const TITLE = "Regular Polygon";
     const FPS = 50;
+
     const centerX = 200;
     const centerY = 200;
     const radius = 150;
